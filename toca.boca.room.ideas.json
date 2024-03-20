@@ -478,27 +478,27 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "",
+      "image": "",
+      "url": ""
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "",
+      "image": "",
+      "url": ""
     },
     {
       "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "title": "",
+      "image": "",
+      "url": ""
     },
     {
       "id": 4,
-      "title": "Wallpaper Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
+      "title": "",
+      "image": "",
+      "url": ""
     }
   ]
 }
