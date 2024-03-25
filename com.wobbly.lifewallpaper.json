@@ -55,7 +55,7 @@
       "wortise_app_open_id": "test-app-open",
       "monetag_interstitial_id": "7266203",
       "monetag_app_open_id":"7266884",
-      "interstitial_ad_interval": 1,
+      "interstitial_ad_interval": 3,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
