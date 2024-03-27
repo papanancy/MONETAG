@@ -17,7 +17,7 @@
   ],
   "ads": [
     {
-      "ad_status": false,
+      "ad_status": true,
       "main_ad": "monetag",
       "backup_ad": "alien_ads",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
@@ -53,9 +53,9 @@
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
-      "monetag_interstitial_id": "7232879",
-      "monetag_app_open_id":"7240747",
-      "interstitial_ad_interval": 1,
+      "monetag_interstitial_id": "7275499",
+      "monetag_app_open_id":"7275512",
+      "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
