@@ -19,7 +19,7 @@
     {
       "ad_status": true,
       "main_ad": "monetag",
-      "backup_ad": "alien_ads",
+      "backup_ad": "startapp",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -34,7 +34,7 @@
       "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
       "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
       "fan_native_unit_id": "YOUR_PLACEMENT_ID",
-      "startapp_app_id": "0",
+      "startapp_app_id": "203962568",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
