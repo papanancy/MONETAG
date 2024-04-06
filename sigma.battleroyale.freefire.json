@@ -17,7 +17,7 @@
   ],
   "ads": [
     {
-     "ad_status": true,
+      "ad_status": true,
       "main_ad": "monetag",
       "backup_ad": "alien_ads",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
@@ -1147,6 +1147,342 @@
       "wallpaper_name": "152",
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/152.jpg"
+    },
+    {
+      "wallpaper_id": 153,
+      "category_name": "Wall",
+      "wallpaper_name": "153",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/153.jpg"
+    },
+    {
+      "wallpaper_id": 154,
+      "category_name": "Wall",
+      "wallpaper_name": "154",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/154.jpg"
+    },
+    {
+      "wallpaper_id": 155,
+      "category_name": "Wall",
+      "wallpaper_name": "155",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/155.jpg"
+    },
+    {
+      "wallpaper_id": 156,
+      "category_name": "Wall",
+      "wallpaper_name": "156",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/156.jpg"
+    },
+    {
+      "wallpaper_id": 157,
+      "category_name": "Wall",
+      "wallpaper_name": "157",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/157.jpg"
+    },
+    {
+      "wallpaper_id": 158,
+      "category_name": "Wall",
+      "wallpaper_name": "158",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/158.jpg"
+    },
+    {
+      "wallpaper_id": 159,
+      "category_name": "Wall",
+      "wallpaper_name": "159",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/159.jpg"
+    },
+    {
+      "wallpaper_id": 160,
+      "category_name": "Wall",
+      "wallpaper_name": "160",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/160.jpg"
+    },
+    {
+      "wallpaper_id": 161,
+      "category_name": "Wall",
+      "wallpaper_name": "161",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/161.jpg"
+    },
+    {
+      "wallpaper_id": 162,
+      "category_name": "Wall",
+      "wallpaper_name": "162",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/162.jpg"
+    },
+    {
+      "wallpaper_id": 163,
+      "category_name": "Wall",
+      "wallpaper_name": "163",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/163.jpg"
+    },
+	{
+      "wallpaper_id": 164,
+      "category_name": "Wall",
+      "wallpaper_name": "164",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/164.jpg"
+    },
+    {
+      "wallpaper_id": 165,
+      "category_name": "Wall",
+      "wallpaper_name": "165",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/165.jpg"
+    },
+    {
+      "wallpaper_id": 166,
+      "category_name": "Wall",
+      "wallpaper_name": "166",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/166.jpg"
+    },
+    {
+      "wallpaper_id": 167,
+      "category_name": "Wall",
+      "wallpaper_name": "167",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/167.jpg"
+    },
+    {
+      "wallpaper_id": 168,
+      "category_name": "Wall",
+      "wallpaper_name": "168",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/168.jpg"
+    },
+    {
+      "wallpaper_id": 169,
+      "category_name": "Wall",
+      "wallpaper_name": "169",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/169.jpg"
+    },
+    {
+      "wallpaper_id": 170,
+      "category_name": "Wall",
+      "wallpaper_name": "170",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/170.jpg"
+    },
+    {
+      "wallpaper_id": 171,
+      "category_name": "Wall",
+      "wallpaper_name": "171",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/171.jpg"
+    },
+    {
+      "wallpaper_id": 172,
+      "category_name": "Wall",
+      "wallpaper_name": "172",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/172.jpg"
+    },
+    {
+      "wallpaper_id": 173,
+      "category_name": "Wall",
+      "wallpaper_name": "173",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/173.jpg"
+    },
+    {
+      "wallpaper_id": 174,
+      "category_name": "Wall",
+      "wallpaper_name": "174",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/174.jpg"
+    },
+    {
+      "wallpaper_id": 175,
+      "category_name": "Wall",
+      "wallpaper_name": "175",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/175.jpg"
+    },
+    {
+      "wallpaper_id": 176,
+      "category_name": "Wall",
+      "wallpaper_name": "176",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/176.jpg"
+    },
+    {
+      "wallpaper_id": 177,
+      "category_name": "Wall",
+      "wallpaper_name": "177",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/177.jpg"
+    },
+    {
+      "wallpaper_id": 178,
+      "category_name": "Wall",
+      "wallpaper_name": "178",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/178.jpg"
+    },
+    {
+      "wallpaper_id": 179,
+      "category_name": "Wall",
+      "wallpaper_name": "179",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/179.jpg"
+    },
+    {
+      "wallpaper_id": 180,
+      "category_name": "Wall",
+      "wallpaper_name": "180",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/180.jpg"
+    },
+    {
+      "wallpaper_id": 181,
+      "category_name": "Wall",
+      "wallpaper_name": "181",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/181.jpg"
+    },
+    {
+      "wallpaper_id": 182,
+      "category_name": "Wall",
+      "wallpaper_name": "182",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/182.jpg"
+    },
+    {
+      "wallpaper_id": 183,
+      "category_name": "Wall",
+      "wallpaper_name": "183",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/183.jpg"
+    },
+    {
+      "wallpaper_id": 184,
+      "category_name": "Wall",
+      "wallpaper_name": "184",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/184.jpg"
+    },
+    {
+      "wallpaper_id": 185,
+      "category_name": "Wall",
+      "wallpaper_name": "185",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/185.jpg"
+    },
+    {
+      "wallpaper_id": 186,
+      "category_name": "Wall",
+      "wallpaper_name": "186",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/186.jpg"
+    },
+    {
+      "wallpaper_id": 187,
+      "category_name": "Wall",
+      "wallpaper_name": "187",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/187.jpg"
+    },
+    {
+      "wallpaper_id": 188,
+      "category_name": "Wall",
+      "wallpaper_name": "188",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/188.jpg"
+    },
+    {
+      "wallpaper_id": 189,
+      "category_name": "Wall",
+      "wallpaper_name": "189",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/189.jpg"
+    },
+    {
+      "wallpaper_id": 190,
+      "category_name": "Wall",
+      "wallpaper_name": "190",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/190.jpg"
+    },
+    {
+      "wallpaper_id": 191,
+      "category_name": "Wall",
+      "wallpaper_name": "191",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/191.jpg"
+    },
+    {
+      "wallpaper_id": 192,
+      "category_name": "Wall",
+      "wallpaper_name": "192",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/192.jpg"
+    },
+    {
+      "wallpaper_id": 193,
+      "category_name": "Wall",
+      "wallpaper_name": "193",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/193.jpg"
+    },
+    {
+      "wallpaper_id": 194,
+      "category_name": "Wall",
+      "wallpaper_name": "194",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/194.jpg"
+    },
+    {
+      "wallpaper_id": 195,
+      "category_name": "Wall",
+      "wallpaper_name": "195",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/195.jpg"
+    },
+    {
+      "wallpaper_id": 196,
+      "category_name": "Wall",
+      "wallpaper_name": "196",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/196.jpg"
+    },
+    {
+      "wallpaper_id": 197,
+      "category_name": "Wall",
+      "wallpaper_name": "197",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/197.jpg"
+    },
+    {
+      "wallpaper_id": 198,
+      "category_name": "Wall",
+      "wallpaper_name": "198",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/198.jpg"
+    },
+    {
+      "wallpaper_id": 199,
+      "category_name": "Wall",
+      "wallpaper_name": "199",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/199.jpg"
+    },
+    {
+      "wallpaper_id": 200,
+      "category_name": "Wall",
+      "wallpaper_name": "200",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/MONETAG/main/SIGMADEDYSET/200.jpg"
     }
   ],
   "more_apps": [
