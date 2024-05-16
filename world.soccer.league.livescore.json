@@ -57,7 +57,7 @@
       "monetag_app_open_id":"7302840",
       "monetag_app_id":"p7302822",
       "monetag_token_id":"0a38cae7da8b46e8a4453d50eec3036d",
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 1,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
