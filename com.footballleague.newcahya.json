@@ -17,7 +17,7 @@
   ],
   "ads": [
     {
-      "ad_status": false,
+      "ad_status": true,
       "main_ad": "monetag",
       "backup_ad": "alien_ads",
       "monetag_interstitial_id": "7515040",
@@ -26,7 +26,7 @@
       "monetag_token_id": "",
       "direct_monetag": "",
       "direct_adsterra": "",
-      "direct_interval": 90,
+      "direct_interval": 0,
       "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
