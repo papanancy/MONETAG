@@ -26,7 +26,7 @@
       "monetag_token_id": "",
       "direct_monetag": "",
       "direct_adsterra": "",
-      "direct_interval": 2,
+      "direct_interval": 99,
       "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
