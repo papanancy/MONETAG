@@ -20,6 +20,7 @@
       "ad_status": true,
         "main_ad": "monetag",
         "backup_ad": "alien_ads",
+        "startapp_app_id": "206959285",
         "monetag_interstitial_id": "7271293",
         "monetag_app_open_id":"7271305",
         "monetag_app_id":"p7232874",
