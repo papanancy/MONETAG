@@ -17,8 +17,8 @@
   ],
   "ads": [
     {
-      "ad_status": true,
-        "main_ad": "monetag",
+        "ad_status": true,
+        "main_ad": "startapp",
         "backup_ad": "alien_ads",
         "startapp_app_id": "206959285",
         "monetag_interstitial_id": "7271293",
