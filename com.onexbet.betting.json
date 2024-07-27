@@ -17,7 +17,7 @@
     ],
     "ads": [
       {
-      "ad_status": true,
+      "ad_status": false,
       "main_ad": "alien_v",
       "backup_ad": "monetag",
       "alien_ads_banner_unit_id": "2313a806f9d6faa0",
