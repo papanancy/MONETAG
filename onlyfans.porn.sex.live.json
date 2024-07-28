@@ -18,8 +18,12 @@
   "ads": [
     {
       "ad_status": false,
-        "main_ad": "monetag",
+        "main_ad": "unity",
         "backup_ad": "alien_ads",
+	"startapp_app_id": "0",
+        "unity_game_id": "5666103",
+        "unity_banner_placement_id": "Banner_Android",
+        "unity_interstitial_placement_id": "Interstitial_Android",
         "monetag_interstitial_id": "7313432",
         "monetag_app_open_id":"7313451",
         "monetag_app_id":"p7313417",
