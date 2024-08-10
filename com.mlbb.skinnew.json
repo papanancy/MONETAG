@@ -15,23 +15,29 @@
       "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=24VVJr7Y9BrVw0Gc9asiLkmKf7Tzd74V"
     }
   ],
+  "adsterra": [
+    {
+      "url": "",
+      "interval": 90
+    }
+  ],
   "ads": [
     {
-      "ad_status": true,
-      "main_ad": "unity",
-      "backup_ad": "alien_ads",
+      "ad_status": false,
+      "main_ad": "monetag",
+      "backup_ad": "0",
       "startapp_app_id": "0",
-      "unity_game_id": "5666280",
+      "unity_game_id": "",
       "unity_banner_placement_id": "Banner_Android",
       "unity_interstitial_placement_id": "Interstitial_Android",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
       "monetag_interstitial_id": "",
       "monetag_app_open_id": "",
       "monetag_app_id": "",
       "monetag_token_id": "",
-      "direct_monetag": "",
-      "direct_adsterra": "",
-      "direct_interval": 50,
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 90,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
