@@ -17,16 +17,18 @@
       "privacy_policy_url": "https://www.termsfeed.com/live/8916b0f4-e939-4915-8677-b17f2a5e6127"
     }
   ],
-  "adsterra": [
+  "directlink": [
     {
-      "url": "https://www.highratecpm.com/k8xb5xn13?key=b17fa01ebd6fce3e700fcdf2c0ef5d0b",
-      "interval": 90
+      "main_link" : "adsterra",
+      "adsterra": "",
+      "monetag":"",
+      "interval": 2
     }
   ],
   "ads": [
     {
-      "ad_status": true,
-      "main_ad": "cas",
+      "ad_status": false,
+      "main_ad": "monetag",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
