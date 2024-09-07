@@ -2,13 +2,13 @@
   "apps": [
     {
       "status": true,
-      "one_signal": true,
+      "one_signal": false,
       "featured_categories": "Wall",
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
+      "enable_exit_dialog": false,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
       "enable_more_apps": false,
@@ -18,8 +18,11 @@
   ],
   "adsterra": [
     {
-      "url": "",
-      "interval": 90
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 5,
+      "interval_inter": 2
     }
   ],
   "ads": [
