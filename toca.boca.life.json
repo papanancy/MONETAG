@@ -21,8 +21,8 @@
       "banner": "",
       "native": "",
       "inter": "",
-      "interval_native": 4,
-      "interval_inter": 2
+      "interval_native": 5,
+      "interval_inter": 90
     }
   ],
   "ads": [
