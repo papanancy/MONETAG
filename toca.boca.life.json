@@ -10,7 +10,7 @@
       "enable_rtl_mode": false,
       "enable_exit_dialog": false,
       "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
+      "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
       "redirect_url": "",
       "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=TrGPMW7N7ktQCeWqgdarUAJzvRzrTPNp"
@@ -18,8 +18,11 @@
   ],
   "adsterra": [
     {
-      "url": "",
-      "interval": 90
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 4,
+      "interval_inter": 100
     }
   ],
   "ads": [
