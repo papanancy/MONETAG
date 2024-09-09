@@ -21,7 +21,7 @@
       "banner": "",
       "native": "",
       "inter": "",
-      "interval_native": 4,
+      "interval_native": 100,
       "interval_inter": 100
     }
   ],
@@ -31,7 +31,7 @@
       "main_ad": "monetag",
       "backup_ad": "monetag",
       "startapp_app_id": "0",
-      "unity_game_id": "5667105",
+      "unity_game_id": "",
       "unity_banner_placement_id": "Banner_Android",
       "unity_interstitial_placement_id": "Interstitial_Android",
       "monetag_interstitial_id": "",
