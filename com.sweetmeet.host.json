@@ -15,15 +15,9 @@
       "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=G1kPWeNUdYuzjSUbRKjmqUqWUmqKkRV0"
     }
   ],
-  "adsterra": [
-    {
-      "url": "",
-      "interval": 90
-    }
-  ],
   "ads": [
     {
-      "ad_status": false,
+      "ad_status": true,
       "main_ad": "monetag",
       "backup_ad": "0",
       "startapp_app_id": "0",
