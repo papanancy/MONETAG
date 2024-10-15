@@ -20,16 +20,16 @@
   "adsterra": [
     {
       "banner": "",
-      "native": "https://www.cpmrevenuegate.com/fvxe3qh178?key=594bda0547058b859a010e69aebe0ab4",
-      "inter": "",
+      "native": "https://www.cpmrevenuegate.com/kaz76010?key=f01935aeb92cfd13148c8bde647cfdad",
+      "inter": "https://www.cpmrevenuegate.com/kaz76010?key=f01935aeb92cfd13148c8bde647cfdad",
       "interval_native": 5,
-      "interval_inter": 100
+      "interval_inter": 2
     }
   ],
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "cas",
+      "main_ad": "adsterra",
       "backup_ad": "monetag",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
