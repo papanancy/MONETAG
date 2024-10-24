@@ -18,7 +18,7 @@
   "ads": [
     {
       "ad_status": false,
-      "main_ad": "adsterra",
+      "main_ad": "monetag",
       "backup_ad": "alien_ads",
       "monetag_interstitial_id": "7232879",
       "monetag_app_open_id": "7240747",
@@ -27,7 +27,7 @@
       "direct_monetag": "",
       "direct_adsterra": "https://recordfunny.com/r5ebg5hu?key=2388e865da2bdb847a5818eb62792763",
       "direct_interval": 2,
-      "interstitial_ad_interval": 100,
+      "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
