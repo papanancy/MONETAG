@@ -18,11 +18,8 @@
     ],
     "adsterra": [
     {
-      "banner": "",
-      "native_ad": "https://recordfunny.com/s5iheqv9?key=cb3ee8612e78d06899e269afa033222a",
-      "inter": "https://recordfunny.com/s5iheqv9?key=cb3ee8612e78d06899e269afa033222a",
-      "interval_native": 5,
-      "interval_inter": 2
+      "url": "https://recordfunny.com/s5iheqv9?key=cb3ee8612e78d06899e269afa033222a",
+      "interval": 2
     }
   ],
   "ads": [
